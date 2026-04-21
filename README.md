@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up? I'm MalterxD</h1>
 
-<!--
-**MalterxD/MalterxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Manejo el lenguaje <b>C</b> y estoy enfocado en seguir aprendiendo para trabajar como desarrollador en el futuro.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">I code with & use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo" />
+</div>
+
+###
+
+<h2 align="left">🚀 Mis Proyectos</h2>
+
+* 🕒 [Reloj CLI](https://github.com/MalterxD/Mi-Reloj) - Un reloj digital escrito en C para la terminal.
