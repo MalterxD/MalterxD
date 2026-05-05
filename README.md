@@ -24,4 +24,4 @@
 
 <h2 align="left">🚀 Mis Proyectos</h2>
 
-* 🕒 [Reloj CLI](https://github.com/MalterxD/Mi-Reloj) - Un reloj digital escrito en C para la terminal.
+* 🕒 [CLI-Clock](https://github.com/MalterxD/Mi-Reloj) - Un reloj digital escrito en C para la terminal.
