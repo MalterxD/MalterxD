@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Manejo el lenguaje <b>C</b> y estoy enfocado en seguir aprendiendo para trabajar como desarrollador en el futuro.</p>
+<p align="left">
+I work mainly with <b>C</b> and I'm focused on improving my skills to become a software developer in the future.
+</p>
 
 ###
 
@@ -15,13 +17,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
 </div>
 
 ###
 
-<h2 align="left">🚀 Mis Proyectos</h2>
+<h2 align="left">🚀 My Projects</h2>
 
-* 🕒 [CLI-Clock](https://github.com/MalterxD/Mi-Reloj) - Un reloj digital escrito en C para la terminal.
+- 🕒 [CLI-Clock](https://github.com/MalterxD/CLI-Clock) - A terminal digital clock written in C.
