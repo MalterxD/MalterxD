@@ -23,7 +23,3 @@ I work mainly with <b>C</b> and I'm focused on improving my skills to become a s
 </div>
 
 ###
-
-<h2 align="left">🚀 My Projects</h2>
-
-- 🕒 [CLI-Clock](https://github.com/MalterxD/CLI-Clock) - A terminal digital clock written in C.
