@@ -3,10 +3,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="c" width="40" height="40"/>
+  <a href="https://cprogramming.com" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" alt="C" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" alt="linux" width="40" height="40"/>
+  <a href="https://linux.org" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" alt="Linux" />
   </a>
 </p>
